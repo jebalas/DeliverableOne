@@ -10,11 +10,11 @@ namespace DeliverableOne
             Console.Write("Please enter - musical, tropical, or adventurous: ");
             string vacationType = Console.ReadLine();
 
-            string Destination;
+            string Destination="";
             string TravelSuggestion = "";
 
             if (vacationType == "musical") {
-                Destination = "New Orleans";
+                Destination = "New Orleans!";
             }
             else if (vacationType == "tropical") {
                 Destination = "Mexico for a Beach Vacation!";
@@ -40,7 +40,7 @@ namespace DeliverableOne
             }
 
             string result = "Since you are a group of " + groupSize.ToString() +
-                            "going on a " + vacationType + " vacation, you should"
+                            " going on a " + vacationType + " vacation, you should"
                             + TravelSuggestion + Destination;
             Console.WriteLine(result);
         }
