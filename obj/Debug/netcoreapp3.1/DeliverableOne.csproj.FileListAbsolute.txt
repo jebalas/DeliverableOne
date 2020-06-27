@@ -1,0 +1,12 @@
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.csprojAssemblyReference.cache
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.AssemblyInfoInputs.cache
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.AssemblyInfo.cs
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.csproj.CoreCompileInputs.cache
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.deps.json
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.runtimeconfig.json
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.runtimeconfig.dev.json
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.dll
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/bin/Debug/netcoreapp3.1/DeliverableOne.pdb
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.dll
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.pdb
+/Users/Jennifer/Projects/DeliverableOne/DeliverableOne/obj/Debug/netcoreapp3.1/DeliverableOne.genruntimeconfig.cache
